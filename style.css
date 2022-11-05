@@ -1,0 +1,28 @@
+body{
+    color:blue
+    
+}
+
+#bg{
+    color: tomato 
+}
+
+/* selector de clase */
+.parrafo{
+    color: green;
+}
+
+p.text{
+    color: yellow;
+}
+
+p.parrafo{
+    color: dodgerblue;
+}
+div h2, div h3{
+    color: brown;
+}
+*{
+    font-size: 100px;
+}
+
